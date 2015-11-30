@@ -5,3 +5,5 @@ GitBook allows you to organize your book into chapters, each chapter is stored i
 <embed src="http://player.youku.com/player.php/sid/XMTM5NzEyOTY3Mg==/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 
 ###video
+
+[video_link](http://player.youku.com/player.php/sid/XMTM5NzEyOTY3Mg==/v.swf)
