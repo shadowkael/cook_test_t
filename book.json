@@ -1,7 +1,8 @@
 {
     "plugins": [
         "addcssjs",
-        "anker-enable"
+        "anker-enable",
+        "audio_image"
     ],
     "pluginsConfig": {}
 }
